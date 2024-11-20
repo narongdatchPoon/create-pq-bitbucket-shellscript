@@ -1,2 +1,3 @@
 # create-pq-bitbucket-shellscript
-for example
+For example
+./create_pr.sh feature/xxx "title for pull request" "description for pull request"
